@@ -5,7 +5,6 @@ import{
 } from 'react-router-dom';
 import './App.css';
 import Pokedex from './components/Pokedex';
-import PokemonCard from './components/PokemonCard';
 import Login from './components/Login';
 import PokedexInfo from './components/PokedexInfo';
 import ProtectedRoutes from './components/ProtectedRoutes';
